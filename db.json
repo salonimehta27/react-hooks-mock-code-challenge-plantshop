@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Romanesco broccoli",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Romanesco_broccoli_%28Brassica_oleracea%29.jpg/1920px-Romanesco_broccoli_%28Brassica_oleracea%29.jpg",
+      "price": "10.00",
+      "id": 8
     }
   ]
 }
