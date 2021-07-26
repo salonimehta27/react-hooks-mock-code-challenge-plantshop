@@ -7,6 +7,8 @@ function PlantPage() {
 
   const [plantsList, setPlantsList] = useState([])
   const [search, setSearch] = useState("");
+  // const [newPrice, setNewPrice] = useState(plantsList.price)
+  // console.log(newPrice)
 
   function handleDelete(id) {
     fetch(`http://localhost:6001/plants/${id}`, {
